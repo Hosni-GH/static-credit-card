@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static-credit-card/static/css/main.99c988d7.chunk.css",
+    "main.js": "/static-credit-card/static/js/main.acb235f2.chunk.js",
+    "main.js.map": "/static-credit-card/static/js/main.acb235f2.chunk.js.map",
+    "runtime-main.js": "/static-credit-card/static/js/runtime-main.34ba59b2.js",
+    "runtime-main.js.map": "/static-credit-card/static/js/runtime-main.34ba59b2.js.map",
+    "static/js/2.01d9c5fe.chunk.js": "/static-credit-card/static/js/2.01d9c5fe.chunk.js",
+    "static/js/2.01d9c5fe.chunk.js.map": "/static-credit-card/static/js/2.01d9c5fe.chunk.js.map",
+    "index.html": "/static-credit-card/index.html",
+    "precache-manifest.8271450d01bc129b8cfd67102b16bd7a.js": "/static-credit-card/precache-manifest.8271450d01bc129b8cfd67102b16bd7a.js",
+    "service-worker.js": "/static-credit-card/service-worker.js",
+    "static/css/main.99c988d7.chunk.css.map": "/static-credit-card/static/css/main.99c988d7.chunk.css.map",
+    "static/media/App.css": "/static-credit-card/static/media/terre-technologie.8d796e3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ba59b2.js",
+    "static/js/2.01d9c5fe.chunk.js",
+    "static/css/main.99c988d7.chunk.css",
+    "static/js/main.acb235f2.chunk.js"
+  ]
+}
